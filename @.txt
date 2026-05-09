@@ -1,0 +1,61 @@
+https://github.com/thewebscraping/tls-requests
+
+
+tạo file md giới thiệu để post lên facebook về repo này cho người mới,
+tập trung vào điểm mạnh của repo và lý do vì sao người dùng nên sử dụng repo này
+
+
+
+
+
+cài đặt tất cả cần thiết, tạo file run.bat để chạy với uv, tự chạy và kiểm tra lỗi để fix trước
+
+
+
+"Hãy phân tích toàn bộ repository này từ 3 góc độ:
+Kiến trúc sư phần mềm: Tập trung vào thiết kế hệ thống, các pattern (mô hình) kiến trúc và khả năng mở rộng.
+Lập trình viên: Kiểm tra cấu trúc code, chi tiết triển khai, các thư viện sử dụng và khả năng bảo trì.
+Quản lý sản phẩm: Đánh giá các tính năng chính, luồng người dùng (user flows) và mục đích của dự án.
+Sau đó, hãy tổng hợp thành một file OVERVIEW.md có sử dụng sơ đồ Mermaid để giải thích luồng hoạt động."
+
+
+"Tôi là thành viên mới của dự án này. Hãy giúp tôi:
+Tóm tắt chức năng chính của repo này là gì?
+Cấu trúc thư mục được tổ chức như thế nào? Giải thích ý nghĩa của các thư mục quan trọng.
+Luồng dữ liệu chính đi từ đâu đến đâu? (Ví dụ: Từ API endpoint nào đến logic xử lý nào).
+Liệt kê các công nghệ, framework và thư viện cốt lõi được sử dụng.
+Sau đó, hãy tổng hợp thành một file .md có sử dụng sơ đồ Mermaid để giải thích luồng hoạt động.
+"
+
+
+
+"Tôi là thành viên mới của dự án này. Hãy giúp tôi:
+tạo các file :
+-install-deps.cmd để cài đặt các independance còn thiếu trên local dev pc này
+-build.cmd để compile
+-deploy.cmd để setup và cài đặt (nếu có) vào máy local đang chạy
+"
+
+
+"Hãy thực hiện một đợt review code toàn diện cho repo này. Tập trung vào:
+Code Quality: Các đoạn code bị lặp lại (DRY), các hàm quá phức tạp cần refactor.
+Security: Tìm kiếm các lỗ hổng bảo mật tiềm ẩn như SQL injection, lộ thông tin nhạy cảm hoặc lỗi phân quyền.
+Performance: Chỉ ra các điểm thắt nút cổ chai (bottlenecks) về hiệu năng.
+Best Practices: Code đã tuân thủ đúng quy chuẩn của ngôn ngữ [Tên ngôn ngữ] chưa?
+Sau đó, hãy tổng hợp thành một file .md có sử dụng sơ đồ Mermaid để giải thích.
+"
+
+
+
+"Hãy tìm và giải thích chi tiết logic của tính năng :
+
+-nguyên tắc hoạt động cốt lõi của repo? tại sao nó hoạt động như vậy?
+
+-có thể chuyển sang ngôn ngữ khác như bun typescript không?
+
+. Chỉ ra chính xác các file và hàm liên quan đến luồng này.
+Sau đó, hãy tổng hợp thành một file .md có sử dụng sơ đồ Mermaid để giải thích luồng hoạt động
+"
+
+
+
